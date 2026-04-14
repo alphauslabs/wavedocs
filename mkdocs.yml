@@ -13,6 +13,9 @@ theme:
 nav:
   - "WavePro":
       - "index.md"
+      - "gcguide.md"
+      - "faqs.md"
+      - "glossary.md"
   - "Wave":
       - "wave/index.md"
   - "API":
